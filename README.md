@@ -1,4 +1,4 @@
-# Udacity_Machine_Learning_Capstone
+# Udacity Machine Learning Capstone
 
 This Capstone project was conducted under the supervision of Udacity.
 
@@ -24,4 +24,6 @@ Which are located in the following areas:
 4. `ML.ipynb`
 5. `ML_App.py`
 
+To view the final app, please see this url:
 
+https://udacity-hospital-bed-predict.herokuapp.com/
