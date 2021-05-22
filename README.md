@@ -27,3 +27,10 @@ Which are located in the following areas:
 To view the final app, please see this url:
 
 https://udacity-hospital-bed-predict.herokuapp.com/
+
+The main Python libraries used for this project were:
+
+- Pandas
+- Matplotlib / Seaborn
+- SkLearn
+- Dash / Dash Bootstrap
